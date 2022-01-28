@@ -90,7 +90,7 @@ top: 50px;
 .footer-link {
   color: #11999E;
   margin: auto 30px;
-  font-family: 'Lobster', cursive;
+  font-family: 'Lobster';
   text-decoration: none;
 }
 .skill-row {
@@ -107,7 +107,7 @@ p {
 .contact-message {
   width: 60%;
   margin: 40px auto 60px;
-  font-family: 'Lobster', cursive;
+  font-family: 'Lobster';
   color: #40514E;
 }
 .btn {
@@ -120,7 +120,7 @@ p {
   -webkit-border-radius: 13;
   -moz-border-radius: 13;
   border-radius: 13px;
-  font-family: 'Lobster', cursive;
+  font-family: 'Lobster';
   color: #ffffff;
   font-size: 20px;
   padding: 10px 20px 10px 20px;
